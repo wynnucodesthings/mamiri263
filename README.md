@@ -9,4 +9,4 @@
 - AWS, mySQL, docker, rest api, linux operating systems and git
 
 # Contact
-- to contact me you can either dm ram#0004 on discord or email me at moh@mamiri263.com
+- to contact me you can email me at moh@mamiri263.com
