@@ -1,5 +1,5 @@
 # Introduction
-- Hi, I'm M a hobby programer and I program a bit of everything.
+- Hi, I'm M a hobby programer. I program a bit of everything.
 - I'm planning to post any project that I make. some might be really old projects that I found in my hard drive and some might be new projects I'm working on, they are all open source so you may use them if you want.
 - I'm currently in highschool so the workload that I have in school doesn't allow me to code as much as I used to before.
 # Experience and knowledge
