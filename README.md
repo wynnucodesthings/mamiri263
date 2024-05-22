@@ -6,4 +6,4 @@ I'm currently in high school, so the workload that I have in school doesn't allo
 #### Languages:
 - javascript, java, python, kotlin, lua and c#.
 #### Programs and platforms:
-- AWS, mySQL, docker, rest api, linux operating systems and git
+- Servers, postgresql, docker, rest api and linux operating systems
